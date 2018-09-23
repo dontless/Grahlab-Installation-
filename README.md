@@ -1,4 +1,4 @@
-# Grahlab-Installation-
+# GraPhlab-Installation-
 
  Steps Required for graphlab Installation
  
