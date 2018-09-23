@@ -1,7 +1,11 @@
 # Grahlab-Installation-
-Steps Required for graphlab Installation 
-# here is steps required to install the graphlab in linux
+
+ Steps Required for graphlab Installation
+ 
+# steps required to install the graphlab in linux
+
 I have been try alot for installation but got import graph lab error 
+
 1.steps:-goto this
            
            link https://turi.com/download/install-graphlab-create.html
