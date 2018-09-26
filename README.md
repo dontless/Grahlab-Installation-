@@ -4,7 +4,7 @@
  
 # steps required to install the graphlab in linux
 
-I have been try alot for installation but got import graph lab error 
+I have been try alot for installation but got import graph lab error so, finally gor one solution -:
 
 1.steps:-goto this
            
